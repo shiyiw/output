@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-04 11:19:53
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
@@ -869,5 +871,3 @@ http://112.123.243.37:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 #EXTINF:-1 tvg-name="潮流音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-04 11:19:53
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
